@@ -20,6 +20,11 @@ if total_product <= 1000:
 #title of the second given
 multiply_and_add_part1 = print('\n\nTYPE THE GIVEN 2 NUMBERS : \n')
 
+#defining the given 2 numbers
+first_part1 = 40
+second_part1 = 30
+
+#inputting the given 2 integers
 first_number_part1 = input('GIVEN 2 INTEGER :\n')
 second_number_part1 = input('GIVEN 2 INTEGER :\n')
 
