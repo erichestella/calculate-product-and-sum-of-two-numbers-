@@ -27,3 +27,7 @@ second_part1 = 30
 #inputting the given 2 integers
 first_number_part1 = input('GIVEN 2 INTEGER :\n')
 second_number_part1 = input('GIVEN 2 INTEGER :\n')
+
+#total product of given 2 
+total_product = first_part1 * second_part1 
+print ('TOTAL: \n 40 x 30')
