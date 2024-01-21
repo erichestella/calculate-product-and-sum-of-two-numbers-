@@ -1,7 +1,7 @@
 #title of the program
 multiply_and_add = print('TYPE THE GIVEN 1 NUMBERS:\n')
 
-#defining the numbers in 
+#defining the given 1 numbers
 first = 20 
 second = 30
 
@@ -9,5 +9,8 @@ second = 30
 first_number = input('GIVEN 1 INTEGER : \n')
 second_number = input('GIVEN 1 INTEGER : \n')
 
-total_product = first_number * second_number 
+#total product of given 1 
+total_product = first * second 
+print ('TOTAL: \n 20 x 30')
+
 
