@@ -13,4 +13,8 @@ second_number = input('GIVEN 1 INTEGER : \n')
 total_product = first * second 
 print ('TOTAL: \n 20 x 30')
 
+#it controls to define if it's less than or equal 1000
+if total_product <= 1000:
+    print('\nTHE RESULT IS', total_product)
+
 
