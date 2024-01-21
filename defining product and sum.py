@@ -11,7 +11,7 @@ second_number = input('GIVEN 1 INTEGER : \n')
 
 #total product of given 1 
 total_product = first * second 
-print ('TOTAL: \n 20 x 30')
+print ('TOTAL: \n 20 x 30 =', total_product)
 
 #it controls to define if it's less than or equal 1000
 if total_product <= 1000:
@@ -28,6 +28,6 @@ second_part1 = 30
 first_number_part1 = input('GIVEN 2 INTEGER :\n')
 second_number_part1 = input('GIVEN 2 INTEGER :\n')
 
-#total product of given 2 
-total_product = first_part1 * second_part1 
-print ('TOTAL: \n 40 x 30')
+#total value of given 2 
+total_product_part1 = first_part1 * second_part1
+print('TOTAL :\n', first_part1, "x" ,second_part1, '=', total_product_part1)
