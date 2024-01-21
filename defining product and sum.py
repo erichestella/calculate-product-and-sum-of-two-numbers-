@@ -31,3 +31,8 @@ second_number_part1 = input('GIVEN 2 INTEGER :\n')
 #total value of given 2 
 total_product_part1 = first_part1 * second_part1
 print('TOTAL :\n', first_part1, "x" ,second_part1, '=', total_product_part1)
+
+#controls to define if its greater than 1000 to sum it up the given 2 
+if total_product_part1 >= 1000:
+    total_product_part1 = first_part1 + second_part1
+    print('\nTHE RESULT IS', total_product_part1)
