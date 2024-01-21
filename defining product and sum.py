@@ -17,4 +17,7 @@ print ('TOTAL: \n 20 x 30')
 if total_product <= 1000:
     print('\nTHE RESULT IS', total_product)
 
+#title of the second given
+multiply_and_add_part1 = print('\n\nTYPE THE GIVEN 2 NUMBERS : \n')
+
 
